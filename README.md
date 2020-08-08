@@ -1,10 +1,9 @@
 # Twilight Cloud Band Paper
 
-This is the code to generate the draft of the twilight cloud band paper.
+This code generates the text of my twilight cloud band paper.
 
-tcb_paper.tex contains basically all the text.  
-tcb_bibliography.bib contains the bibliography.  
-The 5 .pdf files are all the figures used in the paper.  
-All other files are GRL files used to compile the paper.
+Connour, K., Schneider, N. M., Milby, Z., Forget, F., Alhosani, M., Spiga, A., et al. (2020). 
+Mars's twilight cloud band: A new cloud feature seen during the Mars Year 34 global dust storm. 
+Geophysical Research Letters, 47, e2019GL084997. https://doi.org/10.1029/2019GL084997
 
-The paper can be found online at: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL084997
+Compiling tcb_paper.tex will create the document. The other files are figures or compiling templates.
